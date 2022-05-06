@@ -1,4 +1,4 @@
-# Trabeling-Salesman-Genetic
+# Traveling-Salesman-Genetic
 Genetic algorithm to provide minima to the traveling salesman problem.
 Sample solution:
 
